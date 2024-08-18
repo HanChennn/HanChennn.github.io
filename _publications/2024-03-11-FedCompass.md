@@ -16,9 +16,9 @@ paperurl: 'http://academicpages.github.io/files/FedCompass.pdf'
 
 
 # Bibtex
-> @article{li2023fedcompass,
+> \text{@article{li2023fedcompass,
         title={FedCompass: Efficient Cross-Silo Federated Learning on Heterogeneous Client Devices using a Computing Power Aware Scheduler},
         author={Li, Zilinghan and Chaturvedi, Pranshu and He, Shilan and Chen, Han and Singh, Gagandeep and Kindratenko, Volodymyr and Huerta, EA and Kim, Kibaek and Madduri, Ravi},
         journal={arXiv preprint arXiv:2309.14675},
         year={2023}
-    } 
+    } }
